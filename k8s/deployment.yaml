@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: nextjs
-          image: ghcr.io/<your-username>/nextjs-ghcr-demo:latest
+          image: ghcr.io/david0573/nextjs-ghcr-demo:latest
           ports:
             - containerPort: 3000
